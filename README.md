@@ -1,25 +1,21 @@
-Amigo Secreto
+🎁 Amigo Secreto
 
+📌 Descrição
 
 Este é um projeto de Amigo Secreto desenvolvido com HTML, CSS e JavaScript. O objetivo é permitir que os participantes sorteiem seus amigos secretos de maneira interativa e dinâmica.
 
-Tecnologias Utilizadas
+🛠 Tecnologias Utilizadas
 
-HTML: Estrutura do site
+🚀 HTML: Estrutura do site
 
-CSS: Estilização e layout responsivo
+🎨 CSS: Estilização e layout responsivo
 
-JavaScript: Lógica do sorteio e interações dinâmicas
+🧠 JavaScript: Lógica do sorteio e interações dinâmicas
 
-Funcionalidades
+✨ Funcionalidades
 
-Cadastro de participantes
+✅ Cadastro de participantes
+✅ Sorteio automático sem repetição
+✅ Exibição dos resultados de forma segura (cada participante vê apenas seu amigo secreto)
+✅ Design responsivo
 
-Sorteio automático sem repetição
-
-Exibição dos resultados de forma segura (cada participante vê apenas seu amigo secreto)
-
-Design responsivo
-
-
-Luis Antonio Zardin
