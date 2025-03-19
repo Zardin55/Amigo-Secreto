@@ -1,6 +1,5 @@
 Amigo Secreto
 
-Descrição
 
 Este é um projeto de Amigo Secreto desenvolvido com HTML, CSS e JavaScript. O objetivo é permitir que os participantes sorteiem seus amigos secretos de maneira interativa e dinâmica.
 
@@ -21,3 +20,6 @@ Sorteio automático sem repetição
 Exibição dos resultados de forma segura (cada participante vê apenas seu amigo secreto)
 
 Design responsivo
+
+
+Luis Antonio Zardin
